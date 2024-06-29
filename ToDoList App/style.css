@@ -1,0 +1,35 @@
+.inputAdd{
+    display: inline;
+    height: 40px;
+}
+
+#addTask{
+    padding: 10px;
+    border: 2px solid #f73596;
+    border-radius: 10px;
+}
+
+/* #addTask:active{
+    border: 2px solid #f73596;
+} */
+
+.btn{
+    background-color: #f73596;
+    font-weight: bold;
+}
+
+*{
+ cursor: pointer;
+ font-weight: 600;
+}
+
+.container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 8%;
+}
+
+#bg{
+    background: linear-gradient(#FFC107, #FF69B4);
+}
