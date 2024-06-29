@@ -45,3 +45,14 @@ todotasks.addEventListener('contextmenu', (e) => {
         renderTasks();
     }
 });
+
+// document.getElementById('delTaskBtn').addEventListener('click', del);
+
+// function del(){
+//     if (selectedIndex >= 0) {
+//         taskList.splice(selectedIndex, 1);
+//         selectedIndex = -1; // reset the selected index
+//         document.getElementById('delTaskBtn').disabled = true; // disable the delete button
+//         renderTasks();
+//     }
+// }
